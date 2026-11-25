@@ -20,7 +20,7 @@ A simple browser game where you try to find a randomly selected number between 1
 ## Project Structure
 
 ```text
-Modal-Window/
+Guess-My-Number/
 ├── index.html
 ├── style.css
 ├── script.js
