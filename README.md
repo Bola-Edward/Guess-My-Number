@@ -17,6 +17,17 @@ A simple browser game where you try to find a randomly selected number between 1
 - Vanilla JavaScript
 - Prettier for code formatting
 
+## Project Structure
+
+```text
+Modal-Window/
+├── index.html
+├── style.css
+├── script.js
+├── .prettierrc
+└── README.md
+```
+
 ## Run Locally
 
 No dependencies, build tools, or server are required.
